@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tuna
+- 👀 I’m interested in Machine learning, data visualization, statistical analysis and Python, SQL, R programming languages
+- 🌱 I’m currently learning Python and improving my skills in statistical analysis..
